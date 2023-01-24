@@ -6,3 +6,4 @@ streamlit
 pillow
 keras
 tensorflow
+pip install --upgrade pip
